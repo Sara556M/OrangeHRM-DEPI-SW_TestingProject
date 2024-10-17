@@ -17,16 +17,6 @@ This repository contains the software testing project for the DEPI software test
 - [GitHub Repository Link](https://github.com/Mazen-Zaki/OrangeHRM-DEPI-SW_TestingProject)
 - Clone Link: `https://github.com/Mazen-Zaki/OrangeHRM-DEPI-SW_TestingProject.git`
 
-## Team Work Distribution
-
-We have divided the work as follows:
-
-- **Adham**: Admin & Recruitment
-- **Shahd**: PIM & My Info
-- **Ahmed**: Leave & Performance
-- **Nourhan**: Time, Dashboard, Directory & Claim
-- **Mazen**: Login, Logout, Interface, About, Support, Change Password, Buzz & Maintenance
-
 ## Project Requirements
 
 The project follows the guidelines provided by the instructor:

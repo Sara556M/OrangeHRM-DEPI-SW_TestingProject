@@ -37,7 +37,7 @@ The project follows the guidelines provided by the instructor:
 
 #### Test Summary Report:
 
-- Includes metrics for both manual and automation testing, including total test cases/scripts, pass/fail rates, and remarks.
+- Includes metrics for both manual and automation testing, including total test cases/scripts, pass/fail rates, and remarks. (using Allure Reports)
 
 ### Test Automation Framework Structure
 

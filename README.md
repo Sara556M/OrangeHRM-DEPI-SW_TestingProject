@@ -33,11 +33,11 @@ The project follows the guidelines provided by the instructor:
 - Framework built using Page Object Model (POM).
 - Test scripts created with Selenium 4, Java, and TestNG.
 - Project managed using Maven.
-- Bonus: Using Allure reports with screenshots on pass and failure.
+- Bonus: Using *Allure* reports with screenshots on pass and failure.
 
 #### Test Summary Report:
 
-- Includes metrics for both manual and automation testing, including total test cases/scripts, pass/fail rates, and remarks. (using Allure Reports)
+- Includes metrics for both manual and automation testing, including total test cases/scripts, pass/fail rates, and remarks.
 
 ### Test Automation Framework Structure
 
